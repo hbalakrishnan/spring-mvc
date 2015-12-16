@@ -33,5 +33,11 @@ Access the application
  
 The application will be running at the following URL: <http://localhost:8080/portal/>.
 
+Test from terminal
+-----------------
+open terminal and make sure you have curl utility installed.
+
+`curl -H "Content-Type: application/json"  -X POST -d '{"id": "007","username": "vikram","address": "bangalore","email": "vikram@xyz.com"}' http://localhost:8080/portal/user/`
+
 
 
