@@ -1,4 +1,4 @@
-portal
+spring mvc with angular JS
 ========================
 
 What is it?
